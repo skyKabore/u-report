@@ -1,0 +1,23 @@
+p{
+    font-family: arial;
+    font-size: 1em;
+    margin-top: 30px;
+    padding:10px;
+}
+body{
+    background-color:cadetblue;
+}
+a:hover{
+    color:deeppink;
+    text-decoration: underline;
+}
+img{
+    background-position: center;
+}
+h1{
+    text-align: center;
+}
+.conteneur{
+    display: flex;
+    flex-direction: row;
+}

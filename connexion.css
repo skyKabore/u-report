@@ -1,0 +1,9 @@
+p,p{
+    font-style: italic;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    font-size: medium;
+}
+body{
+    background-color: cadetblue;
+}
